@@ -1,0 +1,21 @@
+FAIL (20 checks)
+- missing file: references/MAX_IMP_LOOP_v3.1_UNIVERSAL.md
+- missing file: references/ENVIRONMENT_ADAPTATION.md
+- missing file: MAX_IMP_LOOP_UNIVERSAL_DROP_IN_v3.1.md
+- missing file: templates/ENVIRONMENT_PROFILE.md
+- missing file: evals/evals.json
+- missing file: rollback/MAX_IMP_LOOP_v3.0.md
+- missing file: rollback/SKILL_v3.0.md
+- missing file: ROLLBACK.md
+- SKILL.md missing: universal compatibility metadata
+- SKILL.md missing: version metadata
+- SKILL.md missing: environment profile
+- SKILL.md missing: capability discovery
+- SKILL.md missing: no assumed tools
+- SKILL.md missing: no-tools mode
+- SKILL.md missing: read-only mode
+- SKILL.md missing: stateless mode
+- SKILL.md missing: prompt-only fallback
+- SKILL.md missing: full protocol reference
+- SKILL.md missing: environment reference
+- SKILL.md has active Tech Board coupling

@@ -1,0 +1,35 @@
+FAIL (34 checks)
+- protocol missing: version
+- protocol missing: reversibility invariant
+- protocol missing: backup is not rollback
+- protocol missing: evidence states
+- protocol missing: authority separation
+- protocol missing: triage
+- protocol missing: success criteria
+- protocol missing: ground truth
+- protocol missing: rollback envelope
+- protocol missing: checkpoint id
+- protocol missing: smallest complete increment
+- protocol missing: native check
+- protocol missing: do nothing candidate
+- protocol missing: steelman
+- protocol missing: red team
+- protocol missing: complexity delta
+- protocol missing: change state machine
+- protocol missing: failed rollback state
+- protocol missing: small implementation
+- protocol missing: proportional verification
+- protocol missing: rollback verification
+- protocol missing: observation
+- protocol missing: negative knowledge
+- protocol missing: assumption invalidation
+- protocol missing: bounded retries
+- protocol missing: marginal improvement
+- protocol missing: self-protection
+- protocol missing: calibration
+- protocol missing: evidence labels
+- protocol missing: four outcomes
+- protocol missing: checkpoint report
+- protocol missing: final proof
+- protocol missing: proof matrix
+- protocol missing: full loop

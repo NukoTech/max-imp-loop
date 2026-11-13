@@ -1,0 +1,15 @@
+interface:
+  display_name: max imp loop
+  short_description: Use this skill when planning, changing, implementing, deploying,
+    validating, recovering, or improving consequential work where errors could cause
+    material rework, unsafe effects, irreversible changes, uncertain rollback, or
+    false completion claims.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
